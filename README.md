@@ -1,4 +1,4 @@
-# TypeFlow
+# TypeFlow (https://motiandalou.github.io/TypeFlow/)
 
 A minimalist typing trainer designed for IELTS, TOEFL, academic writing, and daily English practice.
 
